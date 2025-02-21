@@ -1,5 +1,5 @@
 # lab2-demo-js
-School
+pspsps
 
 
 Preview:
